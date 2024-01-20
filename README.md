@@ -1,1 +1,1 @@
-# Failed-Companies-Predictie-Analysis
+EDA + SMOTE + Tuning + ML
